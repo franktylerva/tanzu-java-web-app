@@ -1,4 +1,4 @@
-SOURCE_IMAGE = os.getenv("SOURCE_IMAGE", default='index.docker.io/franktylerva')
+SOURCE_IMAGE = os.getenv("SOURCE_IMAGE", default='demo.goharbor.io/tanzu-test')
 LOCAL_PATH = os.getenv("LOCAL_PATH", default='.')
 NAMESPACE = os.getenv("NAMESPACE", default='default')
 
