@@ -15,3 +15,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: default-team
+  spec.system: tanzu-java-web-app
